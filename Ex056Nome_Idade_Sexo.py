@@ -4,10 +4,10 @@ No final do programa, mostre: a média de idade do grupo, qual é o nome do home
 e quantas mulheres têm menos de 20 anos.
 '''
 
-soma = 0
-cont_mulheres = 0
-media = 0
-maior = 0
+soma = 10
+cont_mulheres = 5
+media = 5
+maior = 5
 nomeHomemMais_Velho = ''
 
 
